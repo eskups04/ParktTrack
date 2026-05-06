@@ -361,9 +361,6 @@ void searchVehicle() {
     printLine();
 }
 
-// =============================================================
-//  OPERATION: Update / Reassign Slot
-// =============================================================
 void updateSlot() {
     string plate;
     int newSlot;
